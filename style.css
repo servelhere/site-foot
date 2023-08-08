@@ -23,3 +23,14 @@ body{
     margin: 0 130px;
     font-size: 20px;
 }
+
+.item1-imagem{
+    width: 45%;
+    margin: 0 50px;
+    
+}
+
+.item2-imagem{
+    width: 35%;
+    margin: 50px 100px;
+}
